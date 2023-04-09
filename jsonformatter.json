@@ -1,0 +1,1508 @@
+{
+  "pageProps": {
+    "product": {
+      "slug": "smartfon-apple-iphone-13-pro-max-256gb",
+      "name": "Смартфон Apple iPhone 13 Pro Max 256GB",
+      "nameRu": "Смартфон Apple iPhone 13 Pro Max 256GB",
+      "description": "<h3>Привет, ProMotion.</h3><p>Частота обновления для нового дисплея Super Retina XDR с технологией ProMotion может изменяться от 10 до 120 раз в секунду. Она автоматически становится выше, когда вам требуется быстрая обработка графики, и снижается при выполнении других задач для экономии энергии. Частота обновления зависит даже от скорости движения вашего пальца при прокрутке контента. Почувствуйте разницу.</p><h3>На связи. В моменте.</h3><p>В iOS 15 вы можете делиться с собеседниками фильмами, музыкой и другим контентом с вашего экрана прямо во время разговора по FaceTime. Уведом­ления легко настроить так, чтобы видеть только актуальные на данный момент и фокуси­роваться на главном. А чтобы мгновенно отправить электронное письмо или сделать звонок, достаточно коснуться соответ­ствующего текста на фото.</p><h3>Более мощная система камер.</h3><p>Система камер Pro получила самое масштабное обновление. Улучшенная аппаратная часть позволяет передать ещё больше деталей. Интеллектуальное программное обеспечение открывает новые возможности для съёмки фото и видео. Супербыстрый чип поддерживает все эти инновации. Так вы ещё не снимали.</p><h3>Серьёзный подход к игре.</h3><p>Способность дисплея обновляться с частотой до 120 Гц в сочетании с потрясающей графической производительностью нового 5‐ядерного графического процессора на базе чипа A15 Bionic делают iPhone 13 Pro незаменимым устройством для настоящих геймеров.</p>",
+      "totalAvailableOffers": 68,
+      "totalAvailableMerchants": 15,
+      "creditAvailable": true,
+      "views": 73633,
+      "avgUserRating": 5,
+      "totalReviews": 15,
+      "maxPrice": null,
+      "minPrice": 9950000,
+      "inStock": true,
+      "mainImageUrl": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/397a8ca8c7808f45a412813a6ca76afebb1da544ad4c7083ebf9b63bd0c8e47d_dBzZN3_480l.jpg",
+      "images": [
+        {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/397a8ca8c7808f45a412813a6ca76afebb1da544ad4c7083ebf9b63bd0c8e47d_dBzZN3_480l.jpg",
+          "width": 406,
+          "height": 480,
+          "isStub": false
+        },
+        {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/993c5ca58fd37e164339035331b655ceb94d6e381d2cc44b1b8d362f929a039d_xZf46s_480l.jpg",
+          "width": 406,
+          "height": 480,
+          "isStub": false
+        },
+        {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/171a846888a68c776511a382098cacf47c67f68edc52f6563eb177254bd75d0c_4VmPQu_640l.jpg",
+          "width": 640,
+          "height": 640,
+          "isStub": false
+        },
+        {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/201efbba777b17bbe35a02083207cee8c0eb6fca2cfd55e8a1409a388b78093b_Fx0tmZ_640l.jpg",
+          "width": 640,
+          "height": 640,
+          "isStub": false
+        },
+        {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/3350431ffa6d14b458d0001e638099b54e3431c8cb577132a4d0cf703ff15d02_2IFzrE_640l.jpg",
+          "width": 640,
+          "height": 640,
+          "isStub": false
+        },
+        {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/68def7498ef506e30c49c1abbd03cd92af965c24c38f457b259fa97163fe964c_HdTOar_640l.jpg",
+          "width": 640,
+          "height": 640,
+          "isStub": false
+        },
+        {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/9280fdca71ea9d0c3b1f88b21389702ed01a0be075f7367e443d550ee3bfd241_g9FsYr_640l.jpg",
+          "width": 640,
+          "height": 640,
+          "isStub": false
+        },
+        {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/fd23390dba2597fb737aec058c28694750294b29caef5780778880424d4ecb28_rDxg8l_640l.jpg",
+          "width": 640,
+          "height": 640,
+          "isStub": false
+        },
+        {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/63a24bfba048377a9ba3c36b3b757e4be8e5dc471bd6b7139d27d81896300473_pyg15M_640l.jpg",
+          "width": 640,
+          "height": 640,
+          "isStub": false
+        }
+      ],
+      "productClass": {
+        "nameRu": "Мобильные телефоны"
+      },
+      "brand": "Apple",
+      "category": {
+        "name": "iPhone 13"
+      },
+      "attributes": [
+        {
+          "name": "Cтепень защиты",
+          "value": "IP68"
+        },
+        {
+          "name": "Процессор",
+          "value": "Apple A15 Bionic"
+        },
+        {
+          "name": "Версия ОС",
+          "value": "iOS 15"
+        },
+        {
+          "name": "Стандарт связи",
+          "value": "3G, 4G LTE, VoLTE, 5G, GSM 900/1800/1900"
+        },
+        {
+          "name": "Фронтальная камера",
+          "value": "12 МП"
+        },
+        {
+          "name": "Основная камера",
+          "value": "12 МП, 12 МП, 12 МП"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "металл и стекло"
+        },
+        {
+          "name": "Вес",
+          "value": "238 г"
+        },
+        {
+          "name": "Соотношение сторон экрана",
+          "value": "19.5:9"
+        },
+        {
+          "name": "Разрешение экрана",
+          "value": "2778x1284"
+        },
+        {
+          "name": "Тип экрана",
+          "value": "OLED"
+        },
+        {
+          "name": "Диагональ экрана",
+          "value": "6.7\""
+        },
+        {
+          "name": "Объем встроенной памяти",
+          "value": "256 ГБ"
+        },
+        {
+          "name": "Объем оперативной памяти",
+          "value": "6 ГБ"
+        },
+        {
+          "name": "Бренд",
+          "value": "Apple"
+        }
+      ]
+    },
+    "categoriesBreadcrumbs": [
+      {
+        "slug": "mobilnye-telefony",
+        "name": "Мобильные телефоны",
+        "shortName": "Мобильные телефоны"
+      },
+      {
+        "slug": "iphone",
+        "name": "iPhone",
+        "shortName": "iPhone"
+      },
+      {
+        "slug": "iphone-13",
+        "name": "iPhone 13",
+        "shortName": "iPhone 13"
+      }
+    ],
+    "topOffers": [
+      {
+        "type": "domainOffer",
+        "id": 1305404,
+        "name": "Смартфон Apple iPhone 13 Pro Max Dual, 256 ГБ, Небесно-Голубой",
+        "merchantName": "AllGood.UZ ",
+        "originUrl": "https://allgood.uz/product/9815-smartfon-apple-iphone-13-pro-max-dual-256-gb-nebesno-goluboi",
+        "toShopUrl": "https://www.kattabozor.uz/tsr/Z0FBQUFBQmtLWUFpakRzNUF2TkRoMGRkV2xiUmFoeE80Z3lWTDNsRXh6dW4xX2JyV0puRklON3RORi0xcVlQWVZoRHFCWjI1QmJOaUVkT2luclVCQmpjSWNEeG9fMjAzRnhaSW1LVVFTbC1NV29YLS04MUxDMUE9",
+        "price": 19860000,
+        "minCreditPaymentPerMonth": 2283900,
+        "inStock": true,
+        "creditAvailable": true,
+        "hasPickupAddress": false,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/aad8720b6541badacd55e8c083d11152eb4b1e82905bc488678de929b5350c0f_2onzvb_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        },
+        "deliveryOptions": [
+          {
+            "name": "по Ташкенту",
+            "days": 1
+          },
+          {
+            "name": "по Узбекистану",
+            "days": 2
+          }
+        ]
+      },
+      {
+        "type": "domainOffer",
+        "id": 1483186,
+        "name": "П/Г iPhone 13 Pro Max 256GB Graphite 89%",
+        "merchantName": "MacBro",
+        "originUrl": "https://macbro.uz/product/pg-iphone-13-pro-max-(256gb-graphite-89percent)",
+        "toShopUrl": "https://www.kattabozor.uz/tsr/Z0FBQUFBQmtLWUFpYnFaUnZjUDRqZTlRTlo1ZVBzcnJZX3NYaXNpVVZQRnVpejlrc2d2V2VHM2puWXpZSXQ0ems3NC1rUXdHT2pNUEQwc09aTXBpTURRX3EyNFBSdTF0eEZSdjFzZFNjQ3Rva3dGZGl0OG1tTkU9",
+        "price": 9950000,
+        "minCreditPaymentPerMonth": null,
+        "inStock": true,
+        "creditAvailable": true,
+        "hasPickupAddress": false,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/6504fa764f99d8046f61578672f52a7a65dad1e137c1b9696a037991e8a6d2f7_R3dE48_320l.jpg",
+          "width": 253,
+          "height": 320,
+          "isStub": false
+        },
+        "deliveryOptions": [
+          {
+            "name": "по Ташкенту",
+            "days": null
+          },
+          {
+            "name": "по Узбекистану",
+            "days": null
+          }
+        ]
+      },
+      {
+        "type": "domainOffer",
+        "id": 1302395,
+        "name": "Смартфон iPhone 13 Pro Max Dual 256 Gb Silver",
+        "merchantName": "PARAGRAF",
+        "originUrl": "https://paragraf.uz/iphone-13-pro-max-dual-256-gb-silver/",
+        "toShopUrl": "https://www.kattabozor.uz/tsr/Z0FBQUFBQmtLWUFpREtHRktGdkQxUmxHckhiLXV5MnhadXNEcEtWLW90WDYxRVRZX1FjTTBXQ3NTb0NmQTdzR185NmhaZ3VsRktWeEJxc1NUalJhX1B5cHB0bF9kTUhXNXNNMTQ0dGRGNFVWYnBWRjJpZzJLR2s9",
+        "price": 21099224,
+        "minCreditPaymentPerMonth": 1538485,
+        "inStock": true,
+        "creditAvailable": true,
+        "hasPickupAddress": false,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/578a96931bcdebca101ca06fc6582b64ad1b210802c76ab207d101ae31e66f19_aCZz5R_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        },
+        "deliveryOptions": [
+          {
+            "name": "по Ташкенту",
+            "days": 2
+          },
+          {
+            "name": "по Узбекистану",
+            "days": 4
+          }
+        ]
+      },
+      {
+        "type": "domainOffer",
+        "id": 1302390,
+        "name": "Смартфон iPhone 13 Pro Max Dual 256 Gb Sierra",
+        "merchantName": "PARAGRAF",
+        "originUrl": "https://paragraf.uz/iphone-13-pro-max-dual-256-gb-sierra/",
+        "toShopUrl": "https://www.kattabozor.uz/tsr/Z0FBQUFBQmtLWUFpcVVmQmZPSm9EekFxUzdja0taQ1RBV1NZdDRsY09zcmx3bzZDR3J0WXRSa3c2eTVtVEVtOE0wSUw1SHVuYWlxMmRodUV3WVRwbzhtbk96SHRyTHVBVU1PS25mdnNfR3R5QU1GeDhYdlQxZWc9",
+        "price": 21099224,
+        "minCreditPaymentPerMonth": 1538485,
+        "inStock": true,
+        "creditAvailable": true,
+        "hasPickupAddress": false,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/1bf43a52237d8da34a3c1745f46b7c08e8d8fa2f56c7dc7f255159f713d32972_90kCXw_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        },
+        "deliveryOptions": [
+          {
+            "name": "по Ташкенту",
+            "days": 2
+          },
+          {
+            "name": "по Узбекистану",
+            "days": 4
+          }
+        ]
+      },
+      {
+        "type": "domainOffer",
+        "id": 1305680,
+        "name": "Смартфон Apple iPhone 13 Pro Max, 256 ГБ, Зеленый",
+        "merchantName": "AllGood.UZ ",
+        "originUrl": "https://allgood.uz/product/9145-smartfon-apple-iphone-13-pro-max-256-gb-zelenyi",
+        "toShopUrl": "https://www.kattabozor.uz/tsr/Z0FBQUFBQmtLWUFpYVZHZDE0N2hMM0djXzZWRzBnRWtBQ2N4Q0FuWC1qQW9PbVdDeUUwQ2lUTG1zeHc3a242Q09aTjVoTjdjU2tUVTV3TV9vRHg4NDkxWmJNamJXSWI1dlo0WVZYVXF0Vm9Rd2VYaTcwUzhuVTg9",
+        "price": 17350000,
+        "minCreditPaymentPerMonth": 1995250,
+        "inStock": true,
+        "creditAvailable": true,
+        "hasPickupAddress": false,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/fa9726e1b3f73b9271b19a21c708bcd90eee00850ebfd59c06de2c5c99f8f201_Yudlaw_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        },
+        "deliveryOptions": [
+          {
+            "name": "по Ташкенту",
+            "days": 1
+          },
+          {
+            "name": "по Узбекистану",
+            "days": 2
+          }
+        ]
+      },
+      {
+        "type": "domainOffer",
+        "id": 1276970,
+        "name": "Смартфон iPhone 13 Pro max 256GB Gold",
+        "merchantName": "asaxiy",
+        "originUrl": "https://asaxiy.uz/product/smartfon-iphone-13-pro-max-256gb-gold",
+        "toShopUrl": "https://www.kattabozor.uz/tsr/Z0FBQUFBQmtLWUFpTnFnSFo5bHdhTnlwT3pVOVMzQ1RhOTNkVXUybncyemVmeTJVUlRSQ0FPSFZ4SDRHZ3h3eXYxTTVad2NiU1BRVWdCRHRtTDItVG0zT2tTTjgxYXFMdlRtb0hzU2ZjVnc1UkF6M3U1cG51OVE9",
+        "price": 15669200,
+        "minCreditPaymentPerMonth": null,
+        "inStock": true,
+        "creditAvailable": false,
+        "hasPickupAddress": false,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/7b1cc811cc9a8c962bc79f7b0c49155bf7015ecdc1bb70f7ac01a0fe96aada0d_PksHZW_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        },
+        "deliveryOptions": [
+          {
+            "name": "по Ташкенту",
+            "days": 2
+          },
+          {
+            "name": "по Узбекистану",
+            "days": 10
+          }
+        ]
+      }
+    ],
+    "topReviews": [
+      {
+        "id": 1348,
+        "hash": "bFga9QBVz6",
+        "user": {
+          "id": "1670",
+          "hash": "YLqNFnpozK",
+          "username": "user1670",
+          "fullName": "MERCURY 444",
+          "firstName": "MERCURY",
+          "lastName": "444",
+          "avatar": {
+            "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/user/avatar/78fc75a4979d3f84c28e6927f354aa2fc33ceeea6b8fdce89862a0189ed5a5e8_KU3mCh_320x320.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "isViewerOwner": false,
+        "product": {
+          "slug": "smartfon-apple-iphone-13-pro-max-256gb",
+          "name": "Смартфон Apple iPhone 13 Pro Max 256GB"
+        },
+        "createdAt": "30 июня 2022",
+        "state": "PUBLISHED",
+        "viewerReaction": null,
+        "rating": 5,
+        "likes": 2,
+        "dislikes": 2,
+        "hasTextContent": true,
+        "pros": "Ишлаши интернет тезлиги",
+        "cons": "Хаммаси класс",
+        "comment": "Уртогим олибди ишлатиб курдим дахшат худо хохласа мен хам оламан",
+        "images": []
+      },
+      {
+        "id": 1155,
+        "hash": "5HpsBEzNom",
+        "user": {
+          "id": "1423",
+          "hash": "GlIrs2bq4j",
+          "username": "sodir_8581",
+          "fullName": "***SODIR__007***",
+          "firstName": "***SODIR__007***",
+          "lastName": null,
+          "avatar": {
+            "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/user/avatar/9344479dc12bd058738396bb65acf53a748344fdd5515b25b2dcba43f35ef584_E39Tt1_320x320.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "isViewerOwner": false,
+        "product": {
+          "slug": "smartfon-apple-iphone-13-pro-max-256gb",
+          "name": "Смартфон Apple iPhone 13 Pro Max 256GB"
+        },
+        "createdAt": "9 мая 2022",
+        "state": "PUBLISHED",
+        "viewerReaction": null,
+        "rating": 5,
+        "likes": 5,
+        "dislikes": 2,
+        "hasTextContent": true,
+        "pros": "Bu telefon sifat jihatdan ko'p funksiyalari jihatdan ko'p odamlar orzu qilishadi",
+        "cons": "Kamchiliklar umuman yoʻq",
+        "comment": "Juda zoʻr",
+        "images": []
+      },
+      {
+        "id": 760,
+        "hash": "pOxZLsvh7y",
+        "user": {
+          "id": "929",
+          "hash": "1UeHXPbow0",
+          "username": "gucciguy13",
+          "fullName": "Vante",
+          "firstName": "Vante",
+          "lastName": null,
+          "avatar": {
+            "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/user/avatar/2751e782c900fb7dbf65135e2f1147b310fb36c63a4b51f446aa1809e26f1c9a_jqU1Fs_320x320.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "isViewerOwner": false,
+        "product": {
+          "slug": "smartfon-apple-iphone-13-pro-max-256gb",
+          "name": "Смартфон Apple iPhone 13 Pro Max 256GB"
+        },
+        "createdAt": "27 января 2022",
+        "state": "PUBLISHED",
+        "viewerReaction": null,
+        "rating": 5,
+        "likes": 142,
+        "dislikes": 26,
+        "hasTextContent": true,
+        "pros": "Juda xam zor barcha mashxurlarni xam qolida shu telni ko'ramz sifatiga xam gap yo olgan odam xech xam afsuslanmidi xotirasi juda zor",
+        "cons": "Albatta telefon yaxshiyu narxi juda baland",
+        "comment": null,
+        "images": []
+      },
+      {
+        "id": 732,
+        "hash": "FKhaWiVvfg",
+        "user": {
+          "id": "876",
+          "hash": "W1gHsmEbxi",
+          "username": "sabrimmetin",
+          "fullName": "Sabrim Metin",
+          "firstName": "Sabrim",
+          "lastName": "Metin",
+          "avatar": {
+            "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/user/avatar/177ac900fc0cc2240a49fb7665d802783505f4d4250a0c9e60b3e578140e78f5_q7vn69_320x320.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "isViewerOwner": false,
+        "product": {
+          "slug": "smartfon-apple-iphone-13-pro-max-256gb",
+          "name": "Смартфон Apple iPhone 13 Pro Max 256GB"
+        },
+        "createdAt": "17 января 2022",
+        "state": "PUBLISHED",
+        "viewerReaction": null,
+        "rating": 5,
+        "likes": 109,
+        "dislikes": 23,
+        "hasTextContent": true,
+        "pros": "Bu telefonni liboy odam orzu qiladi chidamli sifatli zaryatiga umuman gap bo'lishi mumkinmas narxiyam sifatiga yarashamera kameraga umuman gap bo'lishi mumkin emas qizlarning va yigitlarning juda teskor smartfoni xotiraga kelsak juda daxshat aqil bavor qilmas darajada ekan olilar",
+        "cons": "Kamchiliki br joyida uyam bo'lsa narxida",
+        "comment": "Juda juda Alo darajada",
+        "images": []
+      }
+    ],
+    "youtubeVideos": [
+      {
+        "videoId": "HC-qHB5q9LY",
+        "title": "БОЛЬШОЙ обзор iPhone 13 Pro (13 Pro Max) — разбор возможностей до мелочей"
+      },
+      {
+        "videoId": "CVe9hjtjPlM",
+        "title": "Apple iPhone 13 Pro Max Gold Unboxing - ASMR"
+      },
+      {
+        "videoId": "Vq01hv6SM68",
+        "title": "Самый дорогой iPhone 13 Pro Max - 160 000₽"
+      }
+    ],
+    "similarProducts": [
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 13 Pro Max 512GB",
+        "slug": "smartfon-apple-iphone-13-pro-max-512gb",
+        "price": 16160000,
+        "views": 9330,
+        "totalAvailableOffers": 57,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/95025cea8ca153eac3dd5302486f5ed8b4f1d6b06d363c701d39e3f5a09eaf4c_9KqMDW_320l.jpg",
+          "width": 271,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 13 Pro Max 128GB",
+        "slug": "smartfon-apple-iphone-13-pro-max-128gb",
+        "price": 14214000,
+        "views": 24404,
+        "totalAvailableOffers": 76,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 5,
+        "totalReviews": 7,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/3112e7e2abefaf25c26e345363481af9eb31e716b415382d14aceaf930186501_Hp0wg6_320l.jpg",
+          "width": 271,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 11 Pro Max 256GB",
+        "slug": "smartfon-apple-iphone-11-pro-max-256gb",
+        "price": 12938500,
+        "views": 34362,
+        "totalAvailableOffers": 8,
+        "inStock": true,
+        "creditAvailable": false,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.75,
+        "totalReviews": 4,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/ad7720bab223bfb4967f7ef90bdcdcb0d474c2aaa7452bdcf883c112590ff38b_NtPjhv_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 14 Pro Max 256GB",
+        "slug": "smartfon-apple-iphone-14-pro-max-256gb",
+        "price": 15066000,
+        "views": 8456,
+        "totalAvailableOffers": 32,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/0a32bffc1c9dc18cbc8c146e012aa4712ea3598bb1a1703b6f2b156200b4e7b9_1dPYiU_320l.jpg",
+          "width": 261,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 12 Pro Max 256GB",
+        "slug": "smartfon-apple-iphone-12-pro-max-256gb",
+        "price": 12995000,
+        "views": 52989,
+        "totalAvailableOffers": 19,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 5,
+        "totalReviews": 4,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/b76f412d46fd4c8de5de9588e7cdef2b24c3f4277b3d2dd9ee2c0bfb316f411e_5ntoPe_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 13 Pro 256GB",
+        "slug": "smartfon-apple-iphone-13-pro-256gb",
+        "price": 9594500,
+        "views": 12205,
+        "totalAvailableOffers": 74,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/19dd7313d5472e1e66324b8c8ef4d8120a558321bb83245759df56cc1c846412_isKWEj_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 13 Pro Max 1TB",
+        "slug": "smartfon-apple-iphone-13-pro-max-1tb",
+        "price": 17045900,
+        "views": 8666,
+        "totalAvailableOffers": 43,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 5,
+        "totalReviews": 1,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/2931d67da1c335757b2f767c7322c69afbe3eed7d521d07826fe05dc0eed43d4_JWIRcw_320l.jpg",
+          "width": 271,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone XS Max 256GB",
+        "slug": "smartfon-apple-iphone-xs-max-256gb",
+        "price": 9372500,
+        "views": 28816,
+        "totalAvailableOffers": 6,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 5,
+        "totalReviews": 8,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/e03bda4140a41091dc24e7437270a2b0033eb890806c793b850f95149d6e4697_fKLpnd_320l.jpg",
+          "width": 136,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 13 256GB",
+        "slug": "smartfon-apple-iphone-13-256gb",
+        "price": 10465000,
+        "views": 8848,
+        "totalAvailableOffers": 45,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 5,
+        "totalReviews": 3,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/26566e177b919ec97bef9bc4724e94ecede37e1f399cfed61ff3ec2d70a48c3b_TjM7eX_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 13 mini 256GB",
+        "slug": "smartfon-apple-iphone-13-mini-256gb",
+        "price": 11281000,
+        "views": 4479,
+        "totalAvailableOffers": 38,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/688cdce7fb6636a0d90c3c8269ffe79e3915a2f92dfb20ec05ef84947fc931c2_A54hFb_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 11 Pro Max 512GB",
+        "slug": "smartfon-apple-iphone-11-pro-max-512gb",
+        "price": 13339250,
+        "views": 4510,
+        "totalAvailableOffers": 5,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/8d83de8d4f8155fbfde7bb6f4f4c9e853fde8b58a036b28a688a3de3c2f7ec3f_gP5EtZ_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 12 Pro Max 512GB",
+        "slug": "smartfon-apple-iphone-12-pro-max-512gb",
+        "price": 13029500,
+        "views": 3467,
+        "totalAvailableOffers": 19,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/14af4d8a089dee68a32f05a2b9ac51880d5ed7fc5f14afbdf229de798099ed81_HdhezB_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 12 Pro Max 128GB",
+        "slug": "smartfon-apple-iphone-12-pro-max-128gb",
+        "price": 12075000,
+        "views": 7344,
+        "totalAvailableOffers": 24,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/239b4c8e6e269a57d3f64c993764d3a40c7a15ae34d6ce5a155f4d693cda5f51_5mwqZ7_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 14 Pro Max 128GB",
+        "slug": "smartfon-apple-iphone-14-pro-max-128gb",
+        "price": 14015000,
+        "views": 14046,
+        "totalAvailableOffers": 35,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 5,
+        "totalReviews": 2,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/c7620037aeb938a346223603bb3ae69199601c172d2c2d7e8b112523057b345b_5R9Xwv_320l.jpg",
+          "width": 261,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 14 Pro Max 512GB",
+        "slug": "smartfon-apple-iphone-14-pro-max-512gb",
+        "price": 17518000,
+        "views": 7214,
+        "totalAvailableOffers": 25,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/c6c3e21eb053eeea76bb223bec6e302df0103832ebc6078d8046cdb80083c67a_XOnufe_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 11 Pro Max 64GB",
+        "slug": "smartfon-apple-iphone-11-pro-max-64gb",
+        "price": 9358000,
+        "views": 28249,
+        "totalAvailableOffers": 7,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 5,
+        "totalReviews": 4,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/0ceda5b2422ab3a30de90f1f3f3161054ad3b38e5eff243bc24f5b1cfd0cc8ca_krGcag_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 13 Pro 512GB",
+        "slug": "smartfon-apple-iphone-13-pro-512gb",
+        "price": 15029000,
+        "views": 1893,
+        "totalAvailableOffers": 58,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/398a8599df0c3334744c8e6f9fc1749b0043f4fe98de2ca0c406eaa62dee679a_BJ4ESA_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 13 Pro 128GB",
+        "slug": "smartfon-apple-iphone-13-pro-128gb",
+        "price": 13029500,
+        "views": 13436,
+        "totalAvailableOffers": 83,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 5,
+        "totalReviews": 2,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/052929c04163e75017513d0e7d6e0d706f2483926179af0987fe22bbe0dbc658_1iEzHU_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 12 Pro 256GB",
+        "slug": "smartfon-apple-iphone-12-pro-256gb",
+        "price": 7462500,
+        "views": 3245,
+        "totalAvailableOffers": 38,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 5,
+        "totalReviews": 1,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/fd2c07f345c046673d734b959bc74bcb1f6fac15fc808287ee5a5a0b52378cef_5LZY7N_320l.jpg",
+          "width": 236,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 11 Pro 256GB",
+        "slug": "smartfon-apple-iphone-11-pro-256gb",
+        "price": 9847000,
+        "views": 20186,
+        "totalAvailableOffers": 13,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.5,
+        "totalReviews": 4,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/9885917db7225bcab72c00c4f76e4b199daef9cac6375c51a1981bc4d3e023c2_TKli9m_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 14 Pro 256GB",
+        "slug": "smartfon-apple-iphone-14-pro-256gb",
+        "price": 14132000,
+        "views": 4863,
+        "totalAvailableOffers": 37,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/52e4035c52b06aecd14c1584bfc8fd1fd3dca00517ebef59440151fd14f017ee_Aopulb_320l.jpg",
+          "width": 261,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 14 Pro Max 1TB",
+        "slug": "smartfon-apple-iphone-14-pro-max-1tb",
+        "price": 19270000,
+        "views": 3940,
+        "totalAvailableOffers": 26,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/7d71622fc4ddb053ae5a26062939c4989492c980d2e7c7b80ef13d7b8ef436b2_i5xEZR_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 13 Pro 1TB",
+        "slug": "smartfon-apple-iphone-13-pro-1tb",
+        "price": 15755000,
+        "views": 1168,
+        "totalAvailableOffers": 36,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/b531df02e626ad69878f310992fea863a12ab37d5078ff463be0721c76e63cb0_GYRPra_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone XS Max 512GB",
+        "slug": "smartfon-apple-iphone-xs-max-512gb",
+        "price": 7786000,
+        "views": 2787,
+        "totalAvailableOffers": 4,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 5,
+        "totalReviews": 2,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/6712481309f42e3bdc56a9df46a38fb1d1cd78602b64107f0cf56f4a41f3d6c8_oQxGrF_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone XS Max 64GB",
+        "slug": "smartfon-apple-iphone-xs-max-64gb",
+        "price": 6752000,
+        "views": 16089,
+        "totalAvailableOffers": 10,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.6666665,
+        "totalReviews": 3,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/6712481309f42e3bdc56a9df46a38fb1d1cd78602b64107f0cf56f4a41f3d6c8_oQxGrF_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Ноутбук Apple MacBook Pro 13 2022 (RAM 16GB, SSD 256GB)",
+        "slug": "noutbuk-apple-macbook-pro-13-2022-ram-16gb-ssd-256gb",
+        "price": 19465000,
+        "views": 80,
+        "totalAvailableOffers": 3,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/5eb78995447e035a191399f1b710193367ee69d157bef32be043dee3ad43e027_DiRsMu_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Ноутбук Apple MacBook Pro 13 2022 (RAM 8GB, SSD 256GB)",
+        "slug": "noutbuk-apple-macbook-pro-13-2022-ram-8gb-ssd-256gb",
+        "price": 15228500,
+        "views": 182,
+        "totalAvailableOffers": 6,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/0f4585a3d03eac8cff80be56ae3a46384b439fb776f09d3e14eda69511d935e8_xfl3Kj_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Ноутбук Apple MacBook Pro 13 2020 (RAM 8GB, SSD 256GB)",
+        "slug": "noutbuk-apple-macbook-pro-13-2020-ram-8gb-ssd-256gb",
+        "price": 10660500,
+        "views": 1032,
+        "totalAvailableOffers": 22,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 5,
+        "totalReviews": 2,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/b7fd6d7f748407e1d7d9295ac8bee4b315df6af884d8818ae3704ccfc2aca52c_7KqMpU_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Ноутбук Apple MacBook Pro 13 2020 (RAM 16GB, SSD 256GB)",
+        "slug": "noutbuk-apple-macbook-pro-13-2020-ram-16gb-ssd-256gb",
+        "price": 17825000,
+        "views": 149,
+        "totalAvailableOffers": 9,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/6f3a2a9f061528f1a301e6ceccaac6799bccdd54b8a1a7899358ce61b9e5bb4e_2aErFf_320l.jpg",
+          "width": 320,
+          "height": 191,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 13 mini 128GB",
+        "slug": "smartfon-apple-iphone-13-mini-128gb",
+        "price": 8884000,
+        "views": 3574,
+        "totalAvailableOffers": 45,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 0,
+        "totalReviews": 0,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/834d757c03c6ee0798650d01fddfe36d244483b6633c3936cdd000cf1ac3cdce_iLeMt7_320l.jpg",
+          "width": 320,
+          "height": 266,
+          "isStub": false
+        }
+      }
+    ],
+    "lastViewedProducts": [
+      {
+        "type": "product",
+        "name": "Смартфон Apple iPhone 13 Pro Max 256GB",
+        "slug": "smartfon-apple-iphone-13-pro-max-256gb",
+        "price": 9950000,
+        "views": 73633,
+        "totalAvailableOffers": 68,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 5,
+        "totalReviews": 15,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/1a6e0b04b598eaee90260317de2f3b7c73d91c33fc03ebeb813445e4e5341451_IE0jSH_320l.jpg",
+          "width": 271,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Xiaomi Redmi Note 11 Pro 8/128GB",
+        "slug": "smartfon-xiaomi-redmi-note-11-pro-8-128gb",
+        "price": 3164000,
+        "views": 109115,
+        "totalAvailableOffers": 14,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.60869565217391,
+        "totalReviews": 23,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/90ff906838e8aa93ad51c111b9908fcb7a5f865e42623c0ca87b59786cd884c6_EK21L6_320l.jpg",
+          "width": 237,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Xiaomi Poco X4 Pro 8/256GB",
+        "slug": "smartfon-xiaomi-poco-x4-pro-8-256gb",
+        "price": 3672500,
+        "views": 32499,
+        "totalAvailableOffers": 6,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.75,
+        "totalReviews": 8,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/01e8fe1657a39ea7c1fbcfd3f9839fb4d86b817e124b9ce82178a05a21961967_aBxClW_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Samsung Galaxy A52 4/128GB",
+        "slug": "smartfon-samsung-galaxy-a52-4-128gb",
+        "price": 3390000,
+        "views": 59016,
+        "totalAvailableOffers": 13,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.76923076923077,
+        "totalReviews": 13,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/d3be01112afcdcd08585575b39528b73b8392c4625ad32fe7007986edc944d40_pCz0mX_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Xiaomi Redmi Note 10 4/128GB",
+        "slug": "smartfon-xiaomi-redmi-note-10-4-128gb",
+        "price": 2341000,
+        "views": 84936,
+        "totalAvailableOffers": 3,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.91666666666667,
+        "totalReviews": 24,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/9f5728f555aac8601e74966366a1564930e5e047c69061ba4d4b24c883ffc6ba_xCLAXf_320l.jpg",
+          "width": 231,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Samsung Galaxy A13 4/64GB",
+        "slug": "smartfon-samsung-galaxy-a13-4-64gb",
+        "price": 1775000,
+        "views": 68826,
+        "totalAvailableOffers": 32,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.5,
+        "totalReviews": 8,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/21dec1ade6c7869afe4ac112f4a4f63b5eb8ade40aa655cec63158092d3a7339_KbJ7LP_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Xiaomi Redmi Note 8 4/64GB",
+        "slug": "smartfon-xiaomi-redmi-note-8-4-64gb",
+        "price": 2429500,
+        "views": 68944,
+        "totalAvailableOffers": 1,
+        "inStock": true,
+        "creditAvailable": false,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.53333333333333,
+        "totalReviews": 15,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/263b5232c498eb19042cfbf6e98baaf8eb487cc6689d0fd60ead6449b6b9a79f_tcRkIs_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Samsung Galaxy A51 6/128GB",
+        "slug": "smartfon-samsung-galaxy-a51-6-128gb",
+        "price": 3664000,
+        "views": 46872,
+        "totalAvailableOffers": 4,
+        "inStock": true,
+        "creditAvailable": false,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.71428571428571,
+        "totalReviews": 7,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/487f7d71c16e5a0e5d2d699ee8bf86d2c2c975e5148ef25644e7499bb71bd82c_gf3ZNi_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Samsung Galaxy A33 6/128GB",
+        "slug": "smartfon-samsung-galaxy-a33-6-128gb",
+        "price": 3137000,
+        "views": 45758,
+        "totalAvailableOffers": 50,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.6,
+        "totalReviews": 5,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/a5af49eabf55991453fd913a0b5840eaf0d3ed864315ecaba4f56b6eb6e71f66_ikxvuT_320l.jpg",
+          "width": 320,
+          "height": 256,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Xiaomi Redmi Note 10 Pro 8/128GB",
+        "slug": "smartfon-xiaomi-redmi-note-10-pro-8-128gb",
+        "price": 2633000,
+        "views": 95382,
+        "totalAvailableOffers": 4,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.83720930232558,
+        "totalReviews": 43,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/1f52ac97726d6a9a1c9d6d52b173c9686cca4d2f2cc24637888bc0b4fb292039_UBaMdl_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      },
+      {
+        "type": "product",
+        "name": "Смартфон Samsung Galaxy A73 6/128GB",
+        "slug": "smartfon-samsung-galaxy-a73-6-128gb",
+        "price": 4580000,
+        "views": 39570,
+        "totalAvailableOffers": 19,
+        "inStock": true,
+        "creditAvailable": true,
+        "deliveryAvailable": true,
+        "avgUserRating": 4.75,
+        "totalReviews": 4,
+        "image": {
+          "url": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/7df454b933e6799477d7408a179384a307f5c35c321cb1ae32f2cc7e7388bb7b_kQc6B1_320l.jpg",
+          "width": 320,
+          "height": 320,
+          "isStub": false
+        }
+      }
+    ],
+    "__user": null,
+    "__pages": [],
+    "__isMobile": false,
+    "__lang": "ru",
+    "__namespaces": {
+      "common": {
+        "defaultTitle": "KATTABOZOR — Поиск товаров из интернет-магазинов Узбекистана",
+        "defaultDescription": "KATTABOZOR — поиск товаров из интернет-магазинов Узбекистана. Здесь можно узнать и сравнить цены. Найти магазины, в которых продаются необходимые Вам товары.",
+        "sellOnKattabozor": "Продавайте на KATTABOZOR",
+        "help": "Справка",
+        "contest": "Конкурс",
+        "contestHead": "Конкурс отзывов о товарах",
+        "totalReviews": {
+          "one": "{{count}} отзыв",
+          "few": "{{count}} отзыва",
+          "many": "{{count}} отзывов"
+        },
+        "fromMinPrice": "от {{price}} сум",
+        "viewsFew": {
+          "one": "{{count}} просмотр",
+          "few": "{{count}} просмотра",
+          "many": "{{count}} просмотров"
+        },
+        "viewsThousand": "{{count}} тыс. просмотров",
+        "viewsMillion": "{{count}} млн. просмотров",
+        "viewsBillion": "{{count}} млрд. просмотров",
+        "notInStock": "Нет в продаже",
+        "priceFrom": "от {{price}} сум",
+        "totalAvailableOffers": {
+          "one": "предложение",
+          "few": "предложения",
+          "many": "предложений"
+        },
+        "creditAvailable": "Есть кредит",
+        "creditNotAvailable": "Без кредита",
+        "deliveryAvailable": "Есть доставка",
+        "creditFrom": "кредит от {{payment}} сум/мес",
+        "delivery": "Доставка",
+        "upToDays": {
+          "one": "до {{count}} дня",
+          "few": "до {{count}} дней",
+          "many": "до {{count}} дней"
+        },
+        "toShop": "В магазин",
+        "detailed": "Подробнее",
+        "Show": "Показать",
+        "buyAtTheBestPriceOnKattabozor": "купить по лучшей цене на KATTABOZOR",
+        "buyWithDeliveryAndProfitablePrice": "купить c доставкой по выгодной цене",
+        "offersInShops": {
+          "one": "{{count}} предложение в магазинах",
+          "few": "{{count}} предложения в магазинах",
+          "many": "{{count}} предложений в магазинах"
+        },
+        "availableFromMerchants": {
+          "one": "В наличии у {{count}} продавца",
+          "few": "В наличии у {{count}} продавцов",
+          "many": "В наличии у {{count}} продавцов"
+        },
+        "newPricesEveryday": "Цены обновляются каждый день",
+        "productMetaDescriptionTail": "Характеристики, рейтинг, отзывы и фото. Цены обновляются каждый день.",
+        "userRatingFrom": "{{rating}} из 5",
+        "productMainTab": "Описание",
+        "productReviewsTab": "Отзывы",
+        "productSpecTab": "Характеристики",
+        "productOffersTab": "Цены",
+        "productAttributes": "Характеристики",
+        "Share": "Поделиться",
+        "Watch": "Смотреть",
+        "verifiedMerchant": "Проверенный магазин",
+        "WatchAllOffers": "Смотреть все цены",
+        "SellOnKattabozor": "Продавать на KATTABOZOR",
+        "Description": "Описание",
+        "WatchAllReviews": "Смотреть все отзывы",
+        "VideoReviews": "Видеообзоры",
+        "similarProducts": "Похожие товары",
+        "lastViewedProducts": "История просмотров",
+        "productWarning1": "Информация на этой странице носит справочный характер. Характеристики и другие свойства товара могут отличаться, уточняйте эту информацию у продавца.",
+        "productWarning2": "Цены сформированы на основе данных интернет-магазинов Ташкента и Узбекистана.",
+        "productWarning3": "Указанные сроки доставки могут отличаться от реальных. Точные условия доставки уточняйте у продавца.",
+        "productWarning4": "Подробные условия покупки товаров, точную стоимость и процент по кредиту уточняйте у продавца.",
+        "directOfferWarning": "Подробные условия покупки товаров, точную стоимость и процент по кредиту уточняйте у продавца.",
+        "domainOfferWarning": "Подробные условия покупки товаров, точную стоимость и процент по кредиту уточняйте у продавца.",
+        "credit": "Кредиты",
+        "productReviewsDoYouWantPrize": "хотите 50 тыс. сум?",
+        "offers": "Предложения",
+        "checkForBrowser": "Проверка браузера",
+        "TooManyRequests": "Слишком много запросов.",
+        "TryLater": "Попробуйте позже.",
+        "RequestedPage": "Запрашиваемая страница:",
+        "captchaTitle": "Проверочка",
+        "passVerification": "Пройдите проверку",
+        "404pageNotFound": "Ошибка 404. Страница не найдена.",
+        "toFrontpage": "На главную",
+        "500Error": "Ошибка 500. Ой! Что-то сломалось =(",
+        "500ErrorRegrets": "Но мы уже чиним.",
+        "pros": "Достоинства",
+        "cons": "Недостатки",
+        "comment": "Комментарий",
+        "price": "{{price}} сум",
+        "privacy-policy": "Политика конфиденциальности",
+        "terms-of-use": "Правила использования сервиса",
+        "available-on-google-play": "Доступно в Google Play",
+        "installFromGooglePlay": "<b>KATTABOZOR</b> всегда под рукой. Следите за ценами в приложении",
+        "login": "Вход",
+        "loginToKattabozor": "Вход на KATTABOZOR",
+        "loginByTelegram": "Войти через Telegram",
+        "loginWarning": "Нажимая на кнопку \"Войти через Telegram\", Вы принимаете наши <termsOfUseLink>Правила использования сервиса</termsOfUseLink> и <privacyPolicyLink>Политику конфиденциальности</privacyPolicyLink>.",
+        "edit": "Редактировать",
+        "reviewAboutProduct": "Отзыв о товаре {{productName}}",
+        "more": "Показать ещё",
+        "onModeration": "На проверке",
+        "rejected": "Отклонён",
+        "pageProfileEdit": "Редактирование страницы",
+        "name": "Имя",
+        "save": "Сохранить",
+        "formSavingUnknownError": "Ошибка при отправке данных. Попробуйте немного позже.",
+        "formSavingNetworkError": "Ошибка сети",
+        "website": "Сайт",
+        "phoneNumbers": "Номера телефонов",
+        "choose": "выбрать",
+        "addWithPlus": "+ добавить",
+        "telegramUsername": "Telegram username",
+        "aboutMe": "О себе",
+        "profileAvatar": "Фото профиля",
+        "delete": "Удалить",
+        "change": "Изменить",
+        "profile": "Профиль",
+        "tabs": "Вкладки",
+        "editing": "Редактирование",
+        "pageTabsEdit": "Редактирование вкладок",
+        "feed": "Лента",
+        "userProfileEdit": "Редактирование профиля",
+        "firstName": "Имя",
+        "lastName": "Фамилия",
+        "productReviewsOnKattabozor": "отзывы на KATTABOZOR",
+        "productReviewsDescription": "{{productName}} отзывы пользователей на KATTABOZOR. Достоинства, недостатки и оценка товара.",
+        "productReviews": "Отзывы",
+        "productReviewsContestInfo": "Каждую неделю дарим <b>50 тысяч сум</b> за лучший отзыв.",
+        "details": "Подробности",
+        "noOneLeftProductReview": "Ещё никто не оставил свой отзыв.<br/> Добавьте его первым :)",
+        "viewProductReview": "Посмотреть отзыв",
+        "addProductReview": "Оставить отзыв",
+        "loginAndAddProductReview": "Войти и оставить отзыв",
+        "productReviewMenuConfirmDeletion": "Удалить отзыв?",
+        "productReviewMenuDelete": "Удалить",
+        "productReviewFormProsLabel": "Достоинства",
+        "productReviewFormProsPlaceholder": "Что вам понравилось?",
+        "productReviewFormConsLabel": "Недостатки",
+        "productReviewFormConsPlaceholder": "Что не понравилось?",
+        "productReviewFormCommentLabel": "Комментарий",
+        "productReviewFormCommentPlaceholder": "Общие впечатления",
+        "create": "Создать",
+        "productReviewFormTextAreaMaxLengthError": "Вы превысили максимально допустимое количество знаков.",
+        "productReviewFormRating": "Общая оценка",
+        "productReviewFormRatingError": "Оцените товар, чтобы создать отзыв.",
+        "unsavedFormWarning": "Данные не сохранены. Вы действительно хотите покинуть страницу?",
+        "productReviewUnsavedFormWarning": "Ваш отзыв не был сохранён. Вы действительно хотите покинуть страницу?",
+        "photo": "Фото",
+        "noMoreThan10Files": "Не более 10 файлов.",
+        "directOfferEdit": "Редактирование товара",
+        "nameRuLabel": "Название RU",
+        "nameUzLabel": "Название UZ",
+        "priceLabel": "Цена (сум)",
+        "descriptionRuLabel": "Описание RU",
+        "descriptionUzLabel": "Описание UZ",
+        "productClass": "Класс товара",
+        "attributesLabel": "Характеристики",
+        "displayedSpecLabel": "Характеристики",
+        "yes": "Да",
+        "isActiveLabel": "Активно",
+        "inStockLabel": "В наличии",
+        "deletionLabel": "Удаление",
+        "directOfferDeletionTitle": "Удаление товара",
+        "directOfferDeletionBody": "Вы действительно хотите удалить данный товар?",
+        "cancel": "Отмена",
+        "buyOnKattabozor": "купить на KATTABOZOR",
+        "shopAddress": "Адрес магазина",
+        "showPhoneNumber": "Позвонить",
+        "toCall": "Позвонить",
+        "views": "Просмотры",
+        "telegramClicks": "Клики в телеграм",
+        "phoneClicks": "Клики позвонить",
+        "invalidState": "Содержит ошибки",
+        "blockedState": "Заблокирован",
+        "isNotActive": "Не активно",
+        "writeToTelegram": "Написать в Telegram",
+        "Vacancies": "Вакансии"
+      },
+      "navbar": {
+        "searchPlaceholder": "Поиск",
+        "phones": "Телефоны",
+        "tablets": "Планшеты",
+        "televisions": "Телевизоры",
+        "notebooks": "Ноутбуки",
+        "smart-watches": "Смарт-часы",
+        "air-conditioners": "Кондиционеры",
+        "refrigerators": "Холодильники",
+        "monitors": "Мониторы",
+        "profileMenuProfile": "Профиль",
+        "profileMenuLogout": "Выйти",
+        "pages": "Страницы"
+      },
+      "categories": {
+        "phones": "Мобильные телефоны",
+        "tablets": "Планшеты",
+        "televisions": "Телевизоры",
+        "notebooks": "Ноутбуки",
+        "keyboards": "Клавиатуры",
+        "mice": "Мыши",
+        "smart-watches": "Смарт-часы и фитнес-браслеты",
+        "air-conditioners": "Кондиционеры",
+        "refrigerators": "Холодильники",
+        "monitors": "Мониторы",
+        "motherboards": "Материнские платы",
+        "power-supply-units": "Блоки питания для компьютеров",
+        "washers": "Стиральные машины",
+        "ranges": "Кухонные плиты",
+        "heaters": "Обогреватели",
+        "portable-speakers": "Портативная акустика",
+        "wifi-network-equipment": "Сетевое оборудование Wi-Fi",
+        "wired-routers-and-switches": "Проводные роутеры и коммутаторы",
+        "air-humidifiers-and-air-cleaners": "Очистители и увлажнители воздуха",
+        "hair-clippers-and-trimmers": "Машинки для стрижки",
+        "hoovers": "Пылесосы",
+        "robotic-vacuums": "Роботы-пылесосы",
+        "hairdryers": "Фены",
+        "computer-graphics-cards": "Видеокарты",
+        "blenders": "Блендеры",
+        "mixers": "Миксеры",
+        "irons": "Утюги",
+        "headphones": "Наушники",
+        "computer-headsets": "Компьютерные гарнитуры",
+        "range-hoods": "Кухонные вытяжки",
+        "surge-protectors": "Стабилизаторы напряжения",
+        "internal-hard-drives": "Внутренние жесткие диски",
+        "external-hard-drives": "Внешние жесткие диски"
+      }
+    }
+  },
+  "__N_SSP": true
+}
